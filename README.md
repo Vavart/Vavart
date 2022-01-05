@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my profile ! 🤙
 
-<!--
-**Vavart/Vavart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✌ 20 y/o 
+- 🎒 Student
+- 😊 Organised, dynamic and caring 
+- 🚀 Passionate about UX/UI 
+- 🌱 Constantly self-learning ! 
+  - 💻 Online courses
+  - 📚 Books
+  - 📻 Podcasts
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"The best time to plant a tree was 20 years ago. The second best time is now." - Chineese proverb*
