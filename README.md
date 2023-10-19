@@ -1,6 +1,6 @@
 ## Welcome to my profile ! 🤙
 
-- ✌ 21 y/o 
+- ✌ 22 y/o 
 - 🎒 Student
 - 😊 Organised, dynamic and caring 
 - 🚀 Passionate about UX/UI 
